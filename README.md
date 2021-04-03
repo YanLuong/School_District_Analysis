@@ -25,7 +25,7 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
   
 
 * ##### How did replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  
+  Replacing the ninth grade math and reading scores did pull down their overall performance but it's decrease is insignificant especially in comparison to the other schools. The impact was not large enough for the school to drop down when ranked by *% Overall Passing*
 
 
 - How does replacing the ninth-grade scores affect the following:
