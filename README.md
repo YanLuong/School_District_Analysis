@@ -28,7 +28,7 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
 
 ![school summary before clean](
 
-![school summary after THS clean](
+![school summary after THS clean](https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/School%20Summary%20Cleaned%20top5.png)
 
 
 
