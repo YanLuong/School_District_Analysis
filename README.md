@@ -16,4 +16,4 @@
 - Scores by school size
 - Scores by school type
 
-![district summary before clean]https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/District%20Summary%20df%20before%20cleaning.png
+![district summary before clean](https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/District%20Summary%20df%20before%20cleaning.png)
