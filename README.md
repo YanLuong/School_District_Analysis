@@ -50,9 +50,12 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
          
          
          
-    - Scores by school size
-    - Scores by school type
+    - ##### Scores by school size
+        
 
+    - ##### Scores by school type
+        Thomas High School is a charter school so any adjustments made to the ninth grade scores from Thomas High School would affect the charter school scores specifically. The difference is barely noticable and it is only when you consider the decimals that you see the decrease of 0.04% in the '% Overall Passing' score. 
+        
 Conclusion
 
 
