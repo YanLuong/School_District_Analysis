@@ -28,7 +28,7 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
   Replacing the ninth grade math and reading scores did pull down their overall performance but it's decrease is insignificant especially in comparison to the other schools. The impact was not large enough for the school to drop in position when ranked by *% Overall Passing*.
 
 
-* #### How does replacing the ninth-grade scores affect the following:
+* #### How did replacing the ninth-grade scores affect the following:
     - ##### Math and reading scores by grade:
         In the Math and Reading scores by grade, we can see the 'NaN' replacement appear in the data frame for Thomas High School ninth grade student scores in both Math and Reading. Please see below image for the Math score by grade and highlighting the 'NaN' entry for the ninth grade scores.
         
@@ -51,7 +51,7 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
          
          
     - ##### Scores by school size
-        
+        Thomas High School is a medium sized school so the changes made to the ninth grade scores will have affected the medium sized school scores. As with all the other analysis, the decrease in scores is very subtle and again, only noticeable in the decimals. The '% Overall passing' dropped by 0.07 after the ninth grade score replacement.     
 
     - ##### Scores by school type
         Thomas High School is a charter school so any adjustments made to the ninth grade scores from Thomas High School would affect the charter school scores specifically. The difference is barely noticable and it is only when you consider the decimals that you see the decrease of 0.04% in the '% Overall Passing' score. 
