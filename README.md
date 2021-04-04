@@ -35,7 +35,7 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
         
         
         
- ![Math score by grade](https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/Maths_by_grade.png)
+        ![Math score by grade](https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/Maths_by_grade.png)
         
         
         
