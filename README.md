@@ -39,8 +39,8 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
         
         
         
-    - ##### Scores by school spending
-         We can see that after the ninth grade scores were adjusted that there was a very small impact on the scores by school spending. Thomas High School falls in the $630-$644 spending range so that is where the impact is seen. The difference in score is only noticeable in the decimal. If we were to refer to the formatted dataframe (without decimals) then we would not see any difference at all as the decrease was so minor. Refer to the first screenshot (non formatted to show the decimals) to see the difference prior to removing ninth grade scores and the latter image showing the scores after replacing the ninth grade scores. Altering the ninth grade scores led to a 0.08% decrease in the '% Overall Passing' score by school spending.
+    - ##### Scores by school spending:
+         We can see that after the ninth grade scores were adjusted that there was a very small impact on the scores by school spending. Thomas High School falls in the $630-$644 spending range so that is where the impact is seen. The difference in score is only noticeable in the decimal. If we were to refer to the formatted dataframe (without decimals) then we would not see any difference at all as the decrease was so minor. Refer to the first screenshot (non formatted to show the decimals) to see the difference prior to removing ninth grade scores and the latter image showing the scores after replacing the ninth grade scores. Altering the ninth grade scores dropped the '% Overall Passing' by 0.08 in the score by school spending analysis.
          
          ![Scores by spending](https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/Score_by_spending_with_THSninthgrade.png)
          
@@ -50,13 +50,15 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
          
          
          
-    - ##### Scores by school size
+    - ##### Scores by school size:
         Thomas High School is a medium sized school so the changes made to the ninth grade scores will have affected the medium sized school scores. As with all the other analysis, the decrease in scores is very subtle and again, only noticeable in the decimals. The '% Overall passing' dropped by 0.07 after the ninth grade score replacement.     
 
-    - ##### Scores by school type
-        Thomas High School is a charter school so any adjustments made to the ninth grade scores from Thomas High School would affect the charter school scores specifically. The difference is barely noticable and it is only when you consider the decimals that you see the decrease of 0.04% in the '% Overall Passing' score. 
-        
-Conclusion
+    - ##### Scores by school type:
+        Thomas High School is a charter school so any adjustments made to the ninth grade scores from Thomas High School would affect the charter school scores specifically. The difference is barely noticable and it is only when you consider the decimals that you see the decrease of 0.04 in the '% Overall Passing' score. 
+    
+-----    
+    
+### Conclusion
 
 
 
