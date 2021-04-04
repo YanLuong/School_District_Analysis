@@ -67,7 +67,7 @@ Overall, replacing the ninth grade scores for Thomas High School in the School D
   1. The biggest change can be seen directly in the Thomas High School summary performance. Not including the ninth grade scores dragged the scores down in maths and reading for the school. The change can be seen in the '% Overall Passing' as it decreased from 90.94% to 90.63%.
   2. In the District Summary, the most noticeable change is in the '% Overall Passing' as it's score decreased from 65.2% to 64.9%. To get a better idea of how significant this is, we would need more comparison data like data from the previous years or data from other districts to compare. The decrease in scores also appear to be more significant in maths than reading.
   3. When referring to the grade by scores analysis, we see can the ninth grade scores for Thomas High School are replaced with NaNs which stands out in the data. Whereas in the School Summary and District Summary, the ninth grade results can be masked and the decrease is subtle.  
-  4. Another change worth mentioning, is the Scores By School Size analysis also saw a drop in their '% Overall Passing' score. This score decreased from 90.62% to 90.55%. What is interesting to note, is that all the medium sized school happen to be charter schools with '% Overall Passing' score in the 90% range or close to it. 
+  4. Another change worth mentioning, is the Scores By School Size analysis also saw a drop in their '% Overall Passing' score. This score decreased from 90.62% to 90.55%. What is interesting to note, is that all the medium sized school happen to be charter schools with '% Overall Passing' score in the 90% range or close to it. Charter schools also performed significantly better than district schools in this analysis.
 
 
 
