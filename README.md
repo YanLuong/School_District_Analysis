@@ -4,9 +4,8 @@
 
 The purpose of this analysis is to assist Maria with her school district analysis. This report will analyse standardised test scores and school metrics to gain insights and performance trends for the School Board.
 
-#### Background & Purpose
-
-Maria has been notified by the School Board that there is evidence of academic dishonesty in the Thomas High School ninth grade scores. To maintain the state-testing standards, it was decided that all the ninth grade reading and maths scores from Thomas High School would need to be replaced with NaNs and to keep the remaining scores as is for analysis. After the ninth grade scores were replaced with NaNs, the school district analysis was repeated again. The results will describe how the NaN score replacements affected the overall school district analysis.
+* #### Background & Purpose
+   Maria has been notified by the School Board that there is evidence of academic dishonesty in the Thomas High School ninth grade scores. To maintain the state-testing standards, it was decided that all the ninth grade reading and maths scores from Thomas High School would need to be replaced with NaNs and to keep the remaining scores as is for analysis. After the ninth grade scores were replaced with NaNs, the school district analysis was repeated again. The results will describe how the NaN score replacements affected the overall school district analysis.
 
 ----
 
@@ -63,7 +62,7 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
     
 -----    
     
-### Conclusion
+### Summary
 Overall, replacing the ninth grade scores for Thomas High School in the School District Analysis had an impact across all the analysis.
   1. The biggest change can be seen directly in the Thomas High School summary performance. Not including the ninth grade scores dragged the scores down in maths and reading for the school. The change can be seen in the '% Overall Passing' as it decreased from 90.94% to 90.63%.
   2. In the District Summary, the most noticeable change is in the '% Overall Passing' as it's score decreased from 65.2% to 64.9%. To get a better idea of how significant this is, we would need more comparison data like data from the previous years or data from other districts to compare. The decrease in scores also appear to be more significant in maths than reading.
