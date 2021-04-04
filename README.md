@@ -59,6 +59,11 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
 -----    
     
 ### Conclusion
+Overall, replacing the ninth grade scores for Thomas High School in the School District Analysis had an impact across all the analysis.
+  1. The biggest change can be seen directly in the Thomas High School summary performance. Not including the ninth grade scores dragged the scores down in maths and reading for the school. The change can be seen in the '% Overall Passing' as it decreased from 90.94% to 90.63%.
+  2. In the District Summary, the most noticeable change is in the '% Overall Passing' as it's score decreased from 65.2% to 64.9%. To get a better idea of how significant this is, we would need more comparison data like data from the previous years or data from other districts to compare. The decrease in scores also appear to be more significant in maths than reading.
+  3. When referring to the grade by scores analysis, we see can the ninth grade results are replaced with NaNs which stands out in the data. Whereas in the School Summary and District Summary, the ninth grade results can be masked and the decrease is subtle.  
+  4. 
 
 
 
