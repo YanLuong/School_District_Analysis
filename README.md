@@ -2,11 +2,11 @@
 
 ### Overview of the school district analysis
 
-The purpose of this analysis is to assist Maria with her school district analysis. This report will analyse standardised test scores and school performance to gain insights and trends.
+The purpose of this analysis is to assist Maria with her school district analysis. This report will analyse standardised test scores and school metrics to gain insights and performance trends for the School Board.
 
 #### Background & Purpose
 
-Maria has been notified by the School Board that there is evidence of academic dishonesty in the Thomas High School ninth grade scores. To maintain the state-testing standards, it was decided that all the ninth grade reading and maths scores from Thomas High School would need to be replaced with NaNs and to keep the remaining as is for analysis. After the ninth grade scores were replaced with NaNs, the school district analysis was repeated again. The results will describe how the NaN score replacements affected the overall school district analysis.
+Maria has been notified by the School Board that there is evidence of academic dishonesty in the Thomas High School ninth grade scores. To maintain the state-testing standards, it was decided that all the ninth grade reading and maths scores from Thomas High School would need to be replaced with NaNs and to keep the remaining scores as is for analysis. After the ninth grade scores were replaced with NaNs, the school district analysis was repeated again. The results will describe how the NaN score replacements affected the overall school district analysis.
 
 ----
 
