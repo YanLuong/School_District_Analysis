@@ -30,7 +30,7 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
 
 * #### How does replacing the ninth-grade scores affect the following:
     - ##### Math and reading scores by grade:
-        In the Math and Reading scores by grade, we can see the 'NaN' replacement appear in the data frame for Thomas High School ninth grade student scores in both Math and Reading. Please see below image for the Math score by grade.
+        In the Math and Reading scores by grade, we can see the 'NaN' replacement appear in the data frame for Thomas High School ninth grade student scores in both Math and Reading. Please see below image for the Math score by grade and highlighting the 'NaN' entry for the ninth grade scores.
         
         
         
