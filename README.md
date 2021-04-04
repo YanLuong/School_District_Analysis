@@ -43,6 +43,8 @@ After the Thomas High School ninth grade results were replaced with NaNs, the sc
          We can see that after the ninth grade scores were adjusted that there was a very small impact on the scores by school spending. The difference is only noticeable in the decimal. If we were to refer to the formatted dataframe (without decimals) then there would not see any impact at all as the decrease was so minor. Refer to the first screenshot(non formatted to show the decimals) to see difference prior to removing ninth grade scores and the latter image showing after replacing the scores.
          ![Scores by spending](https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/Score_by_spending_with_THSninthgrade.png)
          
+         ![Scores by spending cleaned](https://github.com/YanLuong/School_District_Analysis/blob/main/Resources/Score_by_spending_clean.png)
+         
          
          
          
